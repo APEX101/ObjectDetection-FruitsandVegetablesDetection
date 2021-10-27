@@ -1,7 +1,7 @@
 
 # Fruits and Vegetable Recognizaiton- CNN,Transfer Learning
-![](demo.JPG)
 
+<img src=demo.JPG width="50%" >
 
 ## 📝 Overview
 Trained a multiClass classification Convolution neural network by TransferLearning using MobileNetV2
